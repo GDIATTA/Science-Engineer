@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_XSIHgXDKEe6Uq_2xehDcKA" name="repository.metadataGenericSchema" dataPackage="_XSIHgnDKEe6Uq_2xehDcKA"/>
+  <TalendMetadata:GenericPackage xmi:id="_XSIHgnDKEe6Uq_2xehDcKA" name="repository.metadataGenericSchema" dataManager="_XSIHgXDKEe6Uq_2xehDcKA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_XSIHg3DKEe6Uq_2xehDcKA" id="_FKWp0HDKEe6Uq_2xehDcKA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_XSIHhHDKEe6Uq_2xehDcKA" name="ID_VENTE" label="ID_VENTE" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_XSIHhXDKEe6Uq_2xehDcKA" name="CD_PRODUIT" label="CD_PRODUIT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_XSIHhnDKEe6Uq_2xehDcKA" name="DT_VENTE" label="DT_VENTE" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_XSIHh3DKEe6Uq_2xehDcKA" name="ID_CLIENT" label="ID_CLIENT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_XSIHiHDKEe6Uq_2xehDcKA" name="QTE_VENTE" label="QTE_VENTE" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_XSIHiXDKEe6Uq_2xehDcKA" name="PRIX_ACHAT" label="PRIX_ACHAT" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_XSIHinDKEe6Uq_2xehDcKA" name="PRIX_VENTE" label="PRIX_VENTE" talendType="id_String"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
